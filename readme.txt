@@ -9,6 +9,4 @@ commit to same branch
 
 fom another account
 
-my first branch
 
-commit to same branch
